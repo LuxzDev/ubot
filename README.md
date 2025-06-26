@@ -1,6 +1,7 @@
-## Vii mybot
 
+```
 apt update && apt upgrade -y
+```
 ```
 git clone https://github.com/LuxzDev/ubot
 ```
